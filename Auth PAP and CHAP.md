@@ -8,7 +8,7 @@
 ![Alt text](figs/chap.png "CHAP")
 
 ## PPPoE
-![Alt text](figs/pppoe.png "PPPoE")
+![Alt text](figs/pppoe.jpeg "PPPoE")
 
 ## Настройка
 

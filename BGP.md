@@ -3,7 +3,7 @@
 Полезная [ссылка](https://linkmeup.gitbook.io/sdsm/8.-bgp-i-ip-sla/2.-bgp/2.-nastroika-bgp-i-praktika/0.-nastroika-bgp) 
 
 ## Топология
-![Alt text](figs/bgp.jpeg "Топология")
+![Alt text](figs/bgp.png "Топология")
 
 ### Router10
 ```
