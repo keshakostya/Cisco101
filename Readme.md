@@ -8,3 +8,5 @@
 ## Практики
 * [ACL](ACL.md)
 * [Tunnel](Tunnel.md)
+* [BGP](BGP.md)
+* [Auth PAP and CHAP](Auth%20PAP%20and%20CHAP.md)
