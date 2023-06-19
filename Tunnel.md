@@ -23,19 +23,19 @@ GRE туннель должен находиться в сети 192.168.1.0/24 
     Пример для R1
 
         Создать туннель
-        #(config)interface Tunnel0
+        (config)#interface Tunnel0
 
         Задать адрес
-        #(config-if)ip address 192.168.1.1 255.255.255.0
+        (config-if)#ip address 192.168.1.1 255.255.255.0
 
         Уменьшить mtu, чтобы влез заголовок gre.
-        #(config-if)mtu 1476
+        (config-if)#mtu 1476
 
         Указать source(это может быть как интерфейс на маршрутизаторе, так и его адрес)
-        #(config-if)tunnel source Serial 0/1/0
+        (config-if)#tunnel source Serial 0/1/0
 
         И detination(это адрес на на маршрутизаторе на его физическом интерфейсе, до которого мы хотим прокинуть туннель)
-        #(config-if)tunnel destination 172.16.21.2
+        (config-if)#tunnel destination 172.16.21.2
     Все это нужно проделать и для R2, относительно его адресов и интерфейсов.
 5. Настроить [ospf](Base.md#ospf) и раздавать через него сети туннеля и LAN. На этом этапе проверить работоспособность можно через tracerout
 
