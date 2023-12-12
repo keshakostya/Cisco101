@@ -2,7 +2,7 @@
 
 ## [База](Base.md)
 
-## [Полезная теория](https://docs.google.com/document/d/196htDSXKmtVKJ2TKEfiFwbd-k69nxIhYBxfLnjWA3rw/edit#heading=h.dnisxhu5stc4)
+## [Полезная теория](https://docs.google.com/document/d/12f4NKSh_X8TJV2CJHNaAtZzC4abi3N_cIWO2tLWo1pM/edit?usp=sharing)
 (Спасибо OxyEho <3)
 
 ## Практики
